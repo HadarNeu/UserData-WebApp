@@ -13,4 +13,6 @@ https://www.themoviedb.org/documentation/api
 
 3. When configuring the instance add the user data with the api key.
 
+4. Connect to your instance and configure it with your own access ID and key id (get it on AWS IAM service->Your user-> Security credentials)
+
 # You are good to go! just insert the public ip of your instance to the browser on your local host and enjoy your own TMDB Movie Poster Database! :)
